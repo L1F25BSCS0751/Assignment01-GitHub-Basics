@@ -1,3 +1,9 @@
+/*
+Program:Sum of first 50 natural numbers
+Name: Abdul Mughees
+Reg No: L1F25BSCS0751
+Assignment: 01- Getting start with GitHub
+*/
 #include <iostream>
 using namespace std;
 
